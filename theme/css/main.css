@@ -12,31 +12,31 @@
 body {
   background: #fff;
   color: #333;
-  font: 20px Hoefler Text, bodyfont, serif;
+  font: 20px 'Cambo', serif;
   line-height: 30px;
   max-width: 30em;
   margin: 60px 14px 0 64px; }
 
 h1 {
   color: #333333;
-  font-family: 'Cambo', serif;
+  font-family: arial, sans-serif;
   font-size: 1.5em;
   font-weight: normal;
   margin-bottom: 0; }
 
 h2 {
   color: #666666;
-  font-family: 'Cambo', serif;
+  font-family: arial, sans-serif;
   font-size: 1.3em; }
 
 h3 {
   color: #666666;
-  font-family: 'Cambo', serif;
+  font-family: arial, sans-serif;
   font-size: 1em; }
 
 h4 {
   color: #666666;
-  font-family: 'Cambo', serif;
+  font-family: arial, sans-serif;
   font-size: 0.9em; }
 
 time {
@@ -71,10 +71,6 @@ ul, ol {
   ul li, ol li {
     line-height: 30px;
     padding: 6px 0 0 0; }
-
-strong {
-  font: 18px arial,sans-serif;
-  font-weight: bold; }
 
 tt, pre {
   background-color: #fafafa;
