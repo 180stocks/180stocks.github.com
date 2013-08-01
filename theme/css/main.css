@@ -41,7 +41,8 @@ h4 {
 
 time {
   color: #c0c0c0;
-  font-size: 50%; }
+  font-size: 100%;
+  text-transform: uppercase; }
 
 img {
   border: none; }
