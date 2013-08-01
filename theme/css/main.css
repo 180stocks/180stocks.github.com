@@ -45,7 +45,7 @@ time {
   text-transform: uppercase; }
 
 img {
-  border: none; }
+  border: 5px solid #ccc; }
 
 blockquote {
   border-left: 1px solid #A5ABAB;
