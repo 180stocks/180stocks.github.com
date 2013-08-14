@@ -26,15 +26,21 @@
         <a href="http://180stocks.github.io/search" id="page-title">Search Results</a></h1>
 </header>
 <article>    
-    <div id="search-results"></div>
-
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-
-<script src="/theme/js/jquery-tapir.min.js"></script>
-
+    <div>
 <script>
-    $('#search-results').tapir({'token': '520b224540b0090100000000'});
+  (function() {
+    var cx = '009049710563382089934:-n1cxfapcow';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
 </script>
+<gcse:searchresults-only></gcse:searchresults-only>
+</div>
 </article>
 
         <footer>
@@ -43,7 +49,7 @@
                                                                                                     </ul>
             </nav>
             <form action="/search.html">
-                Search posts: <input type="text" class="search" name="query" autocomplete="off" placeholder="eg. company name">
+                Search posts: <input type="text" class="search" name="q" autocomplete="off" placeholder="eg. company name">
             </form>
 
                 <p id="theme-credit"><a href="http://mathieu.agopian.info/mnmlist/theme.html">Thème mnmlist</a></p>
