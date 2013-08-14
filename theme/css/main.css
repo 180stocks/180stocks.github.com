@@ -101,13 +101,24 @@ footer {
   background: #fff;
   color: #666;
   font-family: helvetica, sans-serif;
-  font-size: 13px;
-  letter-spacing: 4px;
-  margin-left: 20px; }
+  font-size: 15px;
+  margin-left: 20px;
+  text-align: right; }
   footer a {
     border-bottom: none;
     color: #c0c0c0; }
   footer li {
     display: inline; }
-  footer p {
-    text-align: right; }
+
+.search {
+  color: #333;
+  padding: 8px 8px 8px 33px;
+  width: 150px;
+  border: 1px solid #bbb;
+  border-radius: 0;
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  box-shadow: none;
+  outline: 0;
+  margin: 0;
+  background: white url("/theme/img/search.png") no-repeat 10px 10px; }

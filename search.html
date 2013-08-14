@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-        <title>180 Stocks</title>
+        <title>Search Results</title>
         <meta charset="utf-8" />
         <link rel="stylesheet" href="http://180stocks.github.io/theme/css/main.css" type="text/css" />
         <link href="http://180stocks.github.io/" type="application/atom+xml" rel="alternate" title="180 Stocks ATOM Feed" />
@@ -20,8 +20,22 @@
 </head>
 
 <body>
-        <ul>
-</ul>
+                
+<header>
+    <h1><a href="http://180stocks.github.io" id="site-title">180 Stocks </a> :
+        <a href="http://180stocks.github.io/search" id="page-title">Search Results</a></h1>
+</header>
+<article>    
+    <div id="search-results"></div>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+
+<script src="/theme/js/jquery-tapir.min.js"></script>
+
+<script>
+    $('#search-results').tapir({'token': '520b224540b0090100000000'});
+</script>
+</article>
 
         <footer>
             <nav>
