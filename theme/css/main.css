@@ -1,5 +1,5 @@
 @import url("pygment.css");
-@import url(http://fonts.googleapis.com/css?family=Cambo);
+@import url(http://fonts.googleapis.com/css?family=Merriweather:400,400italic,700,700italic);
 /*
     Theme Name: mnmlist
     Theme URI: http://mathieu.agopian.info/mnmlist/theme.html
@@ -12,7 +12,7 @@
 body {
   background: #fff;
   color: #333;
-  font: 20px 'Cambo', serif;
+  font: 18px 'Merriweather', serif;
   line-height: 30px;
   max-width: 30em;
   margin: 60px 14px 0 64px; }

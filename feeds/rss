@@ -1,5 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>180 Stocks</title><link>http://180stocks.github.io/</link><description></description><atom:link href="http://180stocks.github.io/feeds/rss" rel="self"></atom:link><lastBuildDate>Wed, 02 Oct 2013 00:00:00 +0530</lastBuildDate><item><title>Day 16 (Alicon)</title><link>http://180stocks.github.io/day-16/</link><description>&lt;p&gt;Today I began with another small-cap stock, &lt;a href="http://www.alicongroup.co.in/Default.aspx"&gt;Alicon Castalloy&lt;/a&gt;.&lt;/p&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>180 Stocks</title><link>http://180stocks.github.io/</link><description></description><atom:link href="http://180stocks.github.io/feeds/rss" rel="self"></atom:link><lastBuildDate>Thu, 03 Oct 2013 00:00:00 +0530</lastBuildDate><item><title>Day 17 (Virat Industries)</title><link>http://180stocks.github.io/day-17/</link><description>&lt;p&gt;Today I began with &lt;a href="http://www.screener.in/screens/3750/Good%20ROCE/"&gt;screening&lt;/a&gt; for
+companies having good return on capital,
+providing decent interest coverage ratio
+and paying out dividends.&lt;/p&gt;
+&lt;p&gt;One of the interesting companies that
+came up was &lt;a href="http://www.viratindustries.com/"&gt;Virat Industries&lt;/a&gt;.
+I specifically liked the detailed annual
+reports and the business details the
+company provided &lt;sup id="fnref:1"&gt;&lt;a class="footnote-ref" href="#fn:1" rel="footnote"&gt;1&lt;/a&gt;&lt;/sup&gt; . On the fundamental
+side, the stock provides a good dividend
+yield of 6%. The company is debt-free,
+has 1.5 crores of cash (against a market
+capitalization of 11.76 crores), decent
+return ratios and a consistent
+performance record &lt;sup id="fnref:2"&gt;&lt;a class="footnote-ref" href="#fn:2" rel="footnote"&gt;2&lt;/a&gt;&lt;/sup&gt; .&lt;/p&gt;
+&lt;p&gt;At the PE of 4.5 and price near the book
+value, the stock surely looked very
+attractive (the &lt;a href="http://www.bseindia.com/corporates/Sharehold_Search.aspx?code=530521"&gt;promoters&lt;/a&gt; too have been
+buying small quantities). I went on to
+discuss the company with an expert.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="About Virat Industries" src="http://180stocks.github.io/static/uploads/virat.png" /&gt;&lt;/p&gt;
+&lt;p&gt;I was asked to compare the company with &lt;a href="http://www.screener.in/company/?q=526851#pl"&gt;Arex
+Industries&lt;/a&gt; and &lt;a href="http://180stocks.github.io/day-12/"&gt;Premco Global&lt;/a&gt;. Arex 
+has amazing operating cashflows (more
+than the company's market capitalization
+for each of the last 4 years).&lt;/p&gt;
+&lt;p&gt;The problem with these companies is not
+the operations or valuations, but the
+scale of opportunities. These business
+are too competitive in nature (due to a
+commodity product) and it is
+hard to scale their turnover beyond a
+size. In textile, this is further
+compounded due to competition from
+Bangladesh and China.&lt;/p&gt;
+&lt;p&gt;He explained that if we are going into
+small-caps, then we should look for
+superior returns. Look for businesses
+which have potential of growing at more
+than 20% year-on-year due to the
+advantage of their small size. Otherwise
+we are only aiming at average returns,
+which can also be obtained from safer
+large-cap stocks too.&lt;/p&gt;
+&lt;p&gt;This surely clicked to me. Their might
+be some mis-pricing in these stocks, but
+that reminds me of the &lt;a href="http://ycombinator.com/munger.html"&gt;essay by Charlie
+Munger&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Over the long term, it's hard for a
+stock to earn a much better return
+than the business which underlies it
+earns. If the business earns 6% on
+capital over 40 years and you hold it
+for that 40 years, you're not going to
+make much different than a 6%
+return—even if you originally buy it
+at a huge discount. Conversely, if a
+business earns 18% on capital over 20
+or 30 years, even if you pay an
+expensive looking price, you'll end up
+with a fine result.&lt;/p&gt;
+&lt;p&gt;So the trick is getting into better
+businesses.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Over last decade, Virat's stock has
+given modest 15% returns, and Arex stock has gone
+nowhere in the last 5 years, both inline
+with their businesses performances.&lt;/p&gt;
+&lt;div class="footnote"&gt;
+&lt;hr /&gt;
+&lt;ol&gt;
+&lt;li id="fn:1"&gt;
+&lt;p&gt;Jason Zweig wrote a wonderful essay
+on the good communication by the
+companies: &lt;a href="http://www.jasonzweig.com/uploads/11.04Washingtons.pdf"&gt;The Tale of Two
+Washingtons&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:1" rev="footnote" title="Jump back to footnote 1 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id="fn:2"&gt;
+&lt;p&gt;2011 had an abnormally low OPM (of
+5% against 23% the year before, but the
+same can be blamed to the abnormal rise
+in the cotton yarn prices: &lt;a href="http://www.indexmundi.com/commodities/?commodity=cotton&amp;amp;months=60&amp;amp;currency=inr"&gt;Cotton price
+chart&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:2" rev="footnote" title="Jump back to footnote 2 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">180Stocks</dc:creator><pubDate>Thu, 03 Oct 2013 00:00:00 +0530</pubDate><guid>tag:180stocks.github.io,2013-10-03:day-17/</guid></item><item><title>Day 16 (Alicon)</title><link>http://180stocks.github.io/day-16/</link><description>&lt;p&gt;Today I began with another small-cap stock, &lt;a href="http://www.alicongroup.co.in/Default.aspx"&gt;Alicon Castalloy&lt;/a&gt;.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;"Alicon Castalloy is one of the largest integrated aluminium casting manufacturing units in India offering end-to-end solutions across the entire value chain, and delivering best-in- class aluminium castings - Gravity, Low Pressure and Sand Casting."&lt;/p&gt;
 &lt;/blockquote&gt;
