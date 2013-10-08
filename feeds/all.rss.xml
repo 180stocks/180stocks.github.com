@@ -1,5 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>180 Stocks</title><link>http://180stocks.github.io/</link><description></description><atom:link href="http://180stocks.github.io/feeds/all.rss.xml" rel="self"></atom:link><lastBuildDate>Mon, 07 Oct 2013 00:00:00 +0530</lastBuildDate><item><title>Day 21 (De Nora)</title><link>http://180stocks.github.io/day-21/</link><description>&lt;p&gt;I &lt;a href="http://180stocks.github.io/static/uploads/average_earning.xlsx"&gt;screened&lt;/a&gt; for companies based on the &lt;a href="http://180stocks.github.io/day-19/"&gt;"Theory of
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>180 Stocks</title><link>http://180stocks.github.io/</link><description></description><atom:link href="http://180stocks.github.io/feeds/all.rss.xml" rel="self"></atom:link><lastBuildDate>Tue, 08 Oct 2013 00:00:00 +0530</lastBuildDate><item><title>Day 22 (Tata Sponge)</title><link>http://180stocks.github.io/day-22/</link><description>&lt;p&gt;Today I continued with the
+&lt;em&gt;"Theory of Common-Stock Investment"&lt;/em&gt; from the &lt;a href="http://www.amazon.com/Security-Analysis-Edition-Foreword-Editions/dp/0071592539"&gt;Security Analysis&lt;/a&gt;.
+The thing that striked me the most was this
+passage:&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Investing in de-growth businesses" src="http://180stocks.github.io/static/uploads/degrowth.png" /&gt;&lt;/p&gt;
+&lt;p&gt;My aim for the day was to find one such
+company which is &lt;em&gt;"long established, well
+financed, important in its industry and
+presumably destined to stay in business and
+make profits indefinitely in the future, but
+that have no speculative or growth appeal"&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.tatasponge.com/"&gt;Tata Sponge&lt;/a&gt; seemed to fit well into that
+definition. The company has an average
+earnings of Rs.70 crores over last decade and
+the &lt;strong&gt;market capitalization is Rs.450
+crores&lt;/strong&gt;. The net-worth is 640 crores.&lt;/p&gt;
+&lt;p&gt;Off this net-worth of 640 crores, &lt;strong&gt;Rs.361
+crores is in fixed deposits and investments&lt;/strong&gt;.
+Thus funds used in operations are around 278
+crores (with 161 crores of depreciated fixed
+assets) &lt;sup id="fnref:idle funds"&gt;&lt;a class="footnote-ref" href="#fn:idle funds" rel="footnote"&gt;1&lt;/a&gt;&lt;/sup&gt; .&lt;/p&gt;
+&lt;p&gt;Over last few years, the operating margins of
+the company have reduced from 30% levels to
+current 13% levels. This has been mainly
+because of the high raw-material prices (58%
+of cost in 2008 vs 75% of cost in 2013).&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Tata Sponge Quantitative Data" src="http://180stocks.github.io/static/uploads/tata-sponge-data.png" /&gt;&lt;/p&gt;
+&lt;p&gt;From the above volume data it doesn't look
+that the company is going through a
+permanent bad phase. The down-swing looks
+purely cyclical, though it is hard to
+estimate how long it can continue.&lt;/p&gt;
+&lt;p&gt;Overall it does look like a company where
+there has been no recent growth, and the
+valuations have depressed for this reason.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Some concerns:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;What kind of upside are we looking for in
+   such cases (i.e. what is the good selling
+   point)? (I would give the intrisic value
+   of around 600 crores based on 3 kilns and
+   the cash, though much will depend on how
+   the company goes on to deploy this cash).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;How long can it take to unlock the value
+   (or rather how long can the depressed
+   cycles continue)?&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;I guess the answers to the above too must be
+somewhere in this excellent &lt;a href="http://www.amazon.com/Security-Analysis-Edition-Foreword-Editions/dp/0071592539"&gt;book&lt;/a&gt;.&lt;/p&gt;
+&lt;div class="footnote"&gt;
+&lt;hr /&gt;
+&lt;ol&gt;
+&lt;li id="fn:idle funds"&gt;
+&lt;p&gt;The excessive cash is
+presumably for the development of &lt;a href="http://www.coal.nic.in/261112a.pdf"&gt;Radhikapur
+Coal Block&lt;/a&gt;. &amp;#160;&lt;a class="footnote-backref" href="#fnref:idle funds" rev="footnote" title="Jump back to footnote 1 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">180Stocks</dc:creator><pubDate>Tue, 08 Oct 2013 00:00:00 +0530</pubDate><guid>tag:180stocks.github.io,2013-10-08:day-22/</guid></item><item><title>Day 21 (De Nora)</title><link>http://180stocks.github.io/day-21/</link><description>&lt;p&gt;I &lt;a href="http://180stocks.github.io/static/uploads/average_earning.xlsx"&gt;screened&lt;/a&gt; for companies based on the &lt;a href="http://180stocks.github.io/day-19/"&gt;"Theory of
 Common-Stock Investment"&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;One of the names that came up was &lt;a href="http://www.denora.com/"&gt;De
 Nora&lt;/a&gt;. The company's balance sheet looked
