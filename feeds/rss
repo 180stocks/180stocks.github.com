@@ -1,5 +1,114 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>180 Stocks</title><link>http://180stocks.github.io/</link><description></description><atom:link href="http://180stocks.github.io/feeds/rss" rel="self"></atom:link><lastBuildDate>Fri, 11 Oct 2013 00:00:00 +0530</lastBuildDate><item><title>Day 24</title><link>http://180stocks.github.io/day-24/</link><description>&lt;p&gt;Felt a bit tired and wanted to keep it easy today.&lt;/p&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>180 Stocks</title><link>http://180stocks.github.io/</link><description></description><atom:link href="http://180stocks.github.io/feeds/rss" rel="self"></atom:link><lastBuildDate>Sat, 12 Oct 2013 00:00:00 +0530</lastBuildDate><item><title>Day 25</title><link>http://180stocks.github.io/day-25/</link><description>&lt;p&gt;Prof.Bakshi shared a very insightful
+&lt;a href="https://db.tt/zjwY90Zt"&gt;presentation&lt;/a&gt; today. While his &lt;a href="http://business.outlookindia.com/article_v3.aspx?artid=285698"&gt;earlier
+article&lt;/a&gt; did discuss about the better returns
+in "great businesses", in this new article he
+explains why &lt;em&gt;cigar-butt investing doesn't
+work&lt;/em&gt; and why &lt;em&gt;even at a PE of 25 times, the
+valuations are still cheap&lt;/em&gt;.&lt;/p&gt;
+&lt;h2&gt;Main takeaways&lt;/h2&gt;
+&lt;h3&gt;Two reasons why cigar-butts don't work&lt;/h3&gt;
+&lt;p&gt;&lt;img alt="Say no to cigar butts" src="http://180stocks.github.io/static/uploads/say-no-to-cigar-butts.png" /&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;In a difficult business, no sooner is one
+problem solved than another surfaces -
+never is there just one cockroach in the
+kitchen. &lt;/li&gt;
+&lt;li&gt;Time is the friend of the wonderful
+business, the enemy of the mediocre. [i.e.
+in the low quality business the return on
+capital is very low. Thus for each passing
+by year where the value doesn't unlock, the
+rise in the intrinsic value is only
+marginal. While in the case of high quality
+businesses, as the return on capital is
+high, the intrinsic value nears the high
+paid price.]&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The reasons why Graham &amp;amp; Dodd advocated on
+"buying cheap" was because of &lt;em&gt;"powerful
+&lt;strong&gt;temporary effect&lt;/strong&gt; upon all business through
+the variations of the economic cycle"&lt;/em&gt;
+Thus during a temporary shift in the economic
+cycle the growth suddenly disappears and the
+stocks are beaten down. This is &lt;em&gt;"guarded
+against by unvarying insistence upon the
+reasonableness of the price paid for each
+purchase."&lt;/em&gt; [Pg.367 of Security Analysis]&lt;/p&gt;
+&lt;p&gt;The above is true for most of the businesses.
+In-fact the "great businesses" are GREAT
+because they rarely witness the &lt;em&gt;"variations
+of the economic cycle"&lt;/em&gt; as they are
+considered to be recession-proof.&lt;/p&gt;
+&lt;h3&gt;Calculating intrinsic value&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;intrinsic value - the figure indicating what
+all of our constituent businesses are
+rationally worth. &lt;strong&gt;With perfect foresight,
+this number can be calculated by taking all
+future cash flows of a business - in and out
+- and discounting them at prevailing interest
+rates.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img alt="Time machine calculation" src="http://180stocks.github.io/static/uploads/time-machine.png" /&gt;&lt;/p&gt;
+&lt;p&gt;This was an interesting learning on how we
+can use the concept of DCF for
+reverse-engineering. By using the actual
+earnings of last few years we can know have
+the "perfect foresight" and market
+expectations on an historical date.&lt;/p&gt;
+&lt;p&gt;Another interesting part was about using the
+actual discount rates for future calculations.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Buffett does not add a risk premium. Instead,
+he relies on his single-minded focus on
+companies with consistent and predictable
+earnings and on the margin of safety that
+comes from buying at a substantial discount
+in the first place.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Graham &amp;amp; Dodd criticised DCF as it involved
+&lt;em&gt;"&lt;strong&gt;assuming&lt;/strong&gt; certain vital facts about
+future earnings, distribution policy and
+interest rates"&lt;/em&gt; [Pg.364 of the Security
+Analysis]&lt;/p&gt;
+&lt;h3&gt;What are great businesses&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Companies that have a established track
+record of delivering high owner earnings in
+relation to capital.&lt;/p&gt;
+&lt;p&gt;Projects where profitability is high and
+overwhelmingly likely to succeed.&lt;/p&gt;
+&lt;p&gt;Businesses that have enduring competitive
+advantages backed by demonstrated
+consistent earning power, and it
+so happens that those types of businesses
+happen to be concentrated in sectors having
+persistent CFROI's.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Graham &amp;amp; Dodd too appreciated the results of
+successful growth investing. But they
+maintained that &lt;em&gt;"identification of
+growth company is not so simple a matter as
+it may appear. It cannot be accomplished
+solely by an examination of the statistics
+and records but requires a considerable
+supplement of special investigation and of
+business judgement... the real question is
+whether or not &lt;strong&gt;all&lt;/strong&gt; careful and
+intelligent investors can follow this policy
+with fair success."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Graham and Dodd classified the companies as
+great companies which &lt;em&gt;"participage in
+general record of growth so that they combine
+the advantages of a long period of upbuilding
+and an &lt;strong&gt;exceptional&lt;/strong&gt; ability to expand
+later."&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;On the stock front, I wasn't able to study
+any new stocks but the ones that were
+mentioned in the &lt;a href="https://db.tt/zjwY90Zt"&gt;presentation&lt;/a&gt; itself.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">180Stocks</dc:creator><pubDate>Sat, 12 Oct 2013 00:00:00 +0530</pubDate><guid>tag:180stocks.github.io,2013-10-12:day-25/</guid></item><item><title>Day 24</title><link>http://180stocks.github.io/day-24/</link><description>&lt;p&gt;Felt a bit tired and wanted to keep it easy today.&lt;/p&gt;
 &lt;p&gt;Today I picked up &lt;a href="http://www.amazon.com/Uncommon-Profits-Writings-Investment-Classics/dp/0471119288"&gt;&lt;em&gt;"Common Stocks and Uncommon
 Profits"&lt;/em&gt;&lt;/a&gt;, by Philip A. Fisher, to keep a
 pace with both value and growth investing.&lt;/p&gt;
