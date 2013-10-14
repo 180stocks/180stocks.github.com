@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>180 Stocks</title><link href="http://180stocks.github.io/" rel="alternate"></link><link href="http://180stocks.github.io/feeds/all.atom.xml" rel="self"></link><id>http://180stocks.github.io/</id><updated>2013-10-13T00:00:00+05:30</updated><entry><title>Day 26</title><link href="http://180stocks.github.io/day-26/" rel="alternate"></link><updated>2013-10-13T00:00:00+05:30</updated><author><name>180Stocks</name></author><id>tag:180stocks.github.io,2013-10-13:day-26/</id><summary type="html">&lt;p&gt;In the introductory chapters of &lt;a href="http://www.amazon.com/Uncommon-Profits-Writings-Investment-Classics/dp/0471119288"&gt;&lt;em&gt;"Common
+<feed xmlns="http://www.w3.org/2005/Atom"><title>180 Stocks</title><link href="http://180stocks.github.io/" rel="alternate"></link><link href="http://180stocks.github.io/feeds/all.atom.xml" rel="self"></link><id>http://180stocks.github.io/</id><updated>2013-10-15T00:00:00+05:30</updated><entry><title>Day 27</title><link href="http://180stocks.github.io/day-27/" rel="alternate"></link><updated>2013-10-15T00:00:00+05:30</updated><author><name>180Stocks</name></author><id>tag:180stocks.github.io,2013-10-15:day-27/</id><summary type="html">&lt;p&gt;I continued with Philip Fisher's 15 point
+checklist today.&lt;/p&gt;
+&lt;p&gt;The first point is &lt;em&gt;"potential to make
+possible a sizable increase in sales."&lt;/em&gt;
+Fisher suggests finding companies which have
+been growing in past. For this he recommends
+to check for growth in blocks (and not on
+year-on-year basis).&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;growth should not be judged on annual basis
+but, say, by taking units of several years
+each.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I took the 9 years historical data and
+computed a &lt;a href="http://180stocks.github.io/static/uploads/growth.xlsx"&gt;list of companies&lt;/a&gt; having sales
+growth of over 20% in the blocks of 3 years
+each. I filtered the list to restrict
+the stocks upto PE of 15 and debt to equity
+ratios of less than 0.75.&lt;/p&gt;
+&lt;p&gt;Browsed through the annual reports of few of
+them, but in most cases it was some one-off
+item. Few names that looked interesting are &lt;a href="http://www.somanyceramics.com/"&gt;Somany
+Ceramics&lt;/a&gt; and &lt;a href="http://www.globusspirits.com/"&gt;Global Spirits&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Will try to look at these and few other names
+over the next few days.&lt;/p&gt;</summary></entry><entry><title>Day 26</title><link href="http://180stocks.github.io/day-26/" rel="alternate"></link><updated>2013-10-13T00:00:00+05:30</updated><author><name>180Stocks</name></author><id>tag:180stocks.github.io,2013-10-13:day-26/</id><summary type="html">&lt;p&gt;In the introductory chapters of &lt;a href="http://www.amazon.com/Uncommon-Profits-Writings-Investment-Classics/dp/0471119288"&gt;&lt;em&gt;"Common
 Stocks and Uncommon Profits"&lt;/em&gt;&lt;/a&gt;,
 Philip Fisher looks at inflation in terms of money
 depreciation over a long period. I computed
