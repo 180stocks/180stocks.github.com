@@ -1,167 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>180 Stocks</title><link>http://180stocks.github.io/</link><description></description><atom:link href="http://180stocks.github.io/feeds/180stocks.rss.xml" rel="self"></atom:link><lastBuildDate>Thu, 06 Nov 2014 00:00:00 +0530</lastBuildDate><item><title>Industry Analysis</title><link>http://180stocks.github.io/industry/</link><description>&lt;p&gt;&lt;strong&gt;I collected the industry wise data of the sectors
-which performed the best and worst over last
-decade. The aim is to find any patterns for
-calling the start / end of bull and bear phases.
-Also to try and find any patterns in those
-stages.&lt;/strong&gt;&lt;/p&gt;
-&lt;table&gt;
-    &lt;thead&gt;
-        &lt;tr&gt;
-            &lt;th&gt;Year&lt;/th&gt;
-            &lt;th&gt;Highest&lt;/th&gt;
-            &lt;th&gt;2nd High&lt;/th&gt;
-            &lt;th&gt;3rd High&lt;/th&gt;
-            &lt;th&gt;Lowest&lt;/th&gt;
-            &lt;th&gt;2nd Low&lt;/th&gt;
-            &lt;th&gt;3rd Low&lt;/th&gt;
-        &lt;/tr&gt;
-    &lt;/thead&gt;
-    &lt;tbody&gt;
-
-        &lt;tr&gt;
-            &lt;td&gt;2002&lt;/td&gt;
-            &lt;td&gt;Fertilizers&lt;br&gt;198.26%&lt;/td&gt;
-            &lt;td&gt;Defence&lt;br&gt;198.05%&lt;/td&gt;
-            &lt;td&gt;Copper&lt;br&gt;170.03%&lt;/td&gt;
-            &lt;td&gt;Telecom - Alternate Carriers&lt;br&gt;-57.53%&lt;/td&gt;
-            &lt;td&gt;Integrated Oil &amp;amp; Gas&lt;br&gt;-23.03%&lt;/td&gt;
-            &lt;td&gt;Telecom Cables&lt;br&gt;-21.53%&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-            &lt;td&gt;2003&lt;/td&gt;
-            &lt;td&gt;Cars &amp;amp; Utility Vehicles&lt;br&gt;505.02%&lt;/td&gt;
-            &lt;td&gt;Zinc&lt;br&gt;145.87%&lt;/td&gt;
-            &lt;td&gt;Other Telecom Services&lt;br&gt;134.58%&lt;/td&gt;
-            &lt;td&gt;Telecom Equipment&lt;br&gt;-13.23%&lt;/td&gt;
-            &lt;td&gt;Internet Software &amp;amp; Services&lt;br&gt;-10.08%&lt;/td&gt;
-            &lt;td&gt;Realty&lt;br&gt;-6.26%&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-            &lt;td&gt;2004&lt;/td&gt;
-            &lt;td&gt;Computer Hardware&lt;br&gt;263.10%&lt;/td&gt;
-            &lt;td&gt;Mining&lt;br&gt;163.43%&lt;/td&gt;
-            &lt;td&gt;Agrochemicals&lt;br&gt;139.87%&lt;/td&gt;
-            &lt;td&gt;Comm.Trading  &amp;amp; Distribution&lt;br&gt;-51.52%&lt;/td&gt;
-            &lt;td&gt;Other Telecom Services&lt;br&gt;-24.69%&lt;/td&gt;
-            &lt;td&gt;Personal Products&lt;br&gt;-22.44%&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-            &lt;td&gt;2005&lt;/td&gt;
-            &lt;td&gt;Other Financial Services&lt;br&gt;851.25%&lt;/td&gt;
-            &lt;td&gt;Department Stores&lt;br&gt;442.32%&lt;/td&gt;
-            &lt;td&gt;Breweries &amp;amp; Distilleries&lt;br&gt;383.84%&lt;/td&gt;
-            &lt;td&gt;Biotechnology&lt;br&gt;-1.50%&lt;/td&gt;
-            &lt;td&gt;Refineries/ Petro-Products&lt;br&gt;3.45%&lt;/td&gt;
-            &lt;td&gt;Oil Marketing &amp;amp; Distribution&lt;br&gt;6.82%&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-            &lt;td&gt;2006&lt;/td&gt;
-            &lt;td&gt;Realty&lt;br&gt;482.41%&lt;/td&gt;
-            &lt;td&gt;Comm.Trading  &amp;amp; Distribution&lt;br&gt;297.43%&lt;/td&gt;
-            &lt;td&gt;Mining&lt;br&gt;237.60%&lt;/td&gt;
-            &lt;td&gt;Airlines&lt;br&gt;-52.37%&lt;/td&gt;
-            &lt;td&gt;Financial Institutions&lt;br&gt;-50.04%&lt;/td&gt;
-            &lt;td&gt;Marine Port &amp;amp; Services&lt;br&gt;-40.65%&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-            &lt;td&gt;2007&lt;/td&gt;
-            &lt;td&gt;Realty&lt;br&gt;654.09%&lt;/td&gt;
-            &lt;td&gt;Education&lt;br&gt;625.29%&lt;/td&gt;
-            &lt;td&gt;Financial Institutions&lt;br&gt;495.87%&lt;/td&gt;
-            &lt;td&gt;Sugar&lt;br&gt;-30.58%&lt;/td&gt;
-            &lt;td&gt;Roads &amp;amp; Highways&lt;br&gt;-17.19%&lt;/td&gt;
-            &lt;td&gt;2/3 Wheelers&lt;br&gt;-5.62%&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-            &lt;td&gt;2008&lt;/td&gt;
-            &lt;td&gt;Marine Port &amp;amp; Services&lt;br&gt;1279.28%&lt;/td&gt;
-            &lt;td&gt;Roads &amp;amp; Highways&lt;br&gt;851.44%&lt;/td&gt;
-            &lt;td&gt;Comm.Trading  &amp;amp; Distribution&lt;br&gt;373.83%&lt;/td&gt;
-            &lt;td&gt;Storage Media &amp;amp; Peripherals&lt;br&gt;-68.61%&lt;/td&gt;
-            &lt;td&gt;Non-Durable Household Prod.&lt;br&gt;-58.77%&lt;/td&gt;
-            &lt;td&gt;Holding Companies&lt;br&gt;-53.59%&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-            &lt;td&gt;2009&lt;/td&gt;
-            &lt;td&gt;Cars &amp;amp; Utility Vehicles&lt;br&gt;117.67%&lt;/td&gt;
-            &lt;td&gt;2/3 Wheelers&lt;br&gt;103.44%&lt;/td&gt;
-            &lt;td&gt;Consulting Services&lt;br&gt;73.54%&lt;/td&gt;
-            &lt;td&gt;Electronic Components&lt;br&gt;-47.47%&lt;/td&gt;
-            &lt;td&gt;Internet Software &amp;amp; Services&lt;br&gt;-44.08%&lt;/td&gt;
-            &lt;td&gt;Other Agricultural Products&lt;br&gt;-39.13%&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-            &lt;td&gt;2010&lt;/td&gt;
-            &lt;td&gt;Roads &amp;amp; Highways&lt;br&gt;301.78%&lt;/td&gt;
-            &lt;td&gt;Travel Support Services&lt;br&gt;286.19%&lt;/td&gt;
-            &lt;td&gt;Houseware&lt;br&gt;263.11%&lt;/td&gt;
-            &lt;td&gt;Telecom - Alternate Carriers&lt;br&gt;-46.42%&lt;/td&gt;
-            &lt;td&gt;Telecom Services&lt;br&gt;-26.05%&lt;/td&gt;
-            &lt;td&gt;Mining&lt;br&gt;-26.01%&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-            &lt;td&gt;2011&lt;/td&gt;
-            &lt;td&gt;Coal&lt;br&gt;3303.78%&lt;/td&gt;
-            &lt;td&gt;Restaurants&lt;br&gt;147.76%&lt;/td&gt;
-            &lt;td&gt;Houseware&lt;br&gt;146.73%&lt;/td&gt;
-            &lt;td&gt;Other Telecom Services&lt;br&gt;-51.12%&lt;/td&gt;
-            &lt;td&gt;Oil Equipment &amp;amp; Services&lt;br&gt;-41.38%&lt;/td&gt;
-            &lt;td&gt;Storage Media &amp;amp; Peripherals&lt;br&gt;-40.79%&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-            &lt;td&gt;2012&lt;/td&gt;
-            &lt;td&gt;Power - Generation/Distribution&lt;br&gt;74.78%&lt;/td&gt;
-            &lt;td&gt;Other Non-Ferrous Metals&lt;br&gt;71.24%&lt;/td&gt;
-            &lt;td&gt;Restaurants&lt;br&gt;48.88%&lt;/td&gt;
-            &lt;td&gt;Computer Hardware&lt;br&gt;-50.92%&lt;/td&gt;
-            &lt;td&gt;Holding Companies&lt;br&gt;-50.91%&lt;/td&gt;
-            &lt;td&gt;Non-Durable Household Prod.&lt;br&gt;-44.82%&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-            &lt;td&gt;2013&lt;/td&gt;
-            &lt;td&gt;Other Telecom Services&lt;br&gt;981.29%&lt;/td&gt;
-            &lt;td&gt;Furniture,Furnishing,Paints&lt;br&gt;34.91%&lt;/td&gt;
-            &lt;td&gt;Cigarettes,Tobacco Products&lt;br&gt;31.19%&lt;/td&gt;
-            &lt;td&gt;Mining&lt;br&gt;-96.17%&lt;/td&gt;
-            &lt;td&gt;Utilities:Non-Elec.&lt;br&gt;-91.82%&lt;/td&gt;
-            &lt;td&gt;IT Software Products&lt;br&gt;-87.92%&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-            &lt;td&gt;2014&lt;/td&gt;
-            &lt;td&gt;Surface Transportation&lt;br&gt;214.17%&lt;/td&gt;
-            &lt;td&gt;Investment Companies&lt;br&gt;201.46%&lt;/td&gt;
-            &lt;td&gt;Iron &amp;amp; Steel/Interm.Products&lt;br&gt;199.65%&lt;/td&gt;
-            &lt;td&gt;Airlines&lt;br&gt;-7.19%&lt;/td&gt;
-            &lt;td&gt;Breweries &amp;amp; Distilleries&lt;br&gt;0.32%&lt;/td&gt;
-            &lt;td&gt;Telecom Services&lt;br&gt;4.38%&lt;/td&gt;
-        &lt;/tr&gt;
-
-    &lt;/tbody&gt;
-&lt;/table&gt;
-
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>180 Stocks</title><link>http://180stocks.github.io/</link><description></description><atom:link href="http://180stocks.github.io/feeds/180stocks.rss.xml" rel="self"></atom:link><lastBuildDate>Wed, 07 Jan 2015 00:00:00 +0530</lastBuildDate><item><title>Day 36 (Surya Roshni)</title><link>http://180stocks.github.io/surya-roshni/</link><description>&lt;p&gt;I was recently told about &lt;a href="http://www.surya.co.in"&gt;Surya Roshni&lt;/a&gt;,
+primarily due to our PM's push for using LED
+bulbs.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Surya Roshni started as a small tube making unit
+in the year 1973. Today, Surya has emerged as a
+vast conglomerate by being the largest in the
+steel segment and second largest in the realm of
+lighting. Surya has ventured into various other
+latitudes of success like fans, cold rolled strips
+and PVC pipes etc.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Company has a market capitalization of 450 Cr (and
+a debt of 900 Cr). Average net profits over last
+5 years is 57 Cr (and average operating profits of
+around 200 Cr). Being a leader in both the
+primary segments, steel pipes and lighting, the
+[earnings are healthy and maintainable]&lt;sup id="fnref:icra"&gt;&lt;a class="footnote-ref" href="#fn:icra" rel="footnote"&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;h2&gt;What is bad about the company?&lt;/h2&gt;
+&lt;p&gt;The company has a very low dividend payout. A part
+of the reasons is the need for regular plant
+upgradation (such as CFL plant in 2010, STIC in
+2012, and again a 150 Cr expansion in current
+year, probably for LEDs and fans). Over the years,
+these huge capital expenditures have contributed
+little to shareholders. Until 2008-09, company
+used to have an asset turnover of around 5 times,
+with operating margins of around 7%. With these
+capital expenditures, the asset turnover has
+decreased to 3 times, and margins improved
+slightly to 8%. Overall, a huge dampner to the
+capital employed. Since these expansions needed a
+lot of debt, the net profits in the hands of
+shareholders have decreased over last 5 years,
+even though the operating profits have doubled.&lt;/p&gt;
+&lt;h2&gt;What I find interesting?&lt;/h2&gt;
+&lt;p&gt;The income statement of the company has many
+fixed-cost line items, primarily interest
+expense and depreciation expense. Ben Graham
+terms these as "companies with speculative capital
+structure." An increase of 15% in operating
+profits (which company has usually had) should
+cause an increase of 50% in PBT. With the push of
+government on LEDs, this &lt;em&gt;can&lt;/em&gt; happen.&lt;/p&gt;
+&lt;p&gt;On the valuations front, the enterprise value of
+1350 Crores and market capitalization of 450
+Crores is not bad compared to the [net block and
+the scale of operations]&lt;sup id="fnref:net block"&gt;&lt;a class="footnote-ref" href="#fn:net block" rel="footnote"&gt;2&lt;/a&gt;&lt;/sup&gt;. It does provide a cushion
+on the down side.&lt;/p&gt;
+&lt;p&gt;Overall, I might not deploy a high concentration
+on the stock and will monitor the biannually
+balance sheets to look for debt reduction and
+check on further expansions.&lt;/p&gt;
+&lt;div class="footnote"&gt;
 &lt;hr /&gt;
-&lt;h2&gt;Interpretations&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;2014 has been special since virtually none of the sectors
-   have performed negatively. It is exactly same
-   as 2005.&lt;/li&gt;
-&lt;li&gt;Since 2005-2008, the average change in market
-   capitalizations were 500%. Reality sector as a
-   whole had grown by over 30 times (4.8x * 6.5x).&lt;/li&gt;
-&lt;/ol&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">180Stocks</dc:creator><pubDate>Thu, 06 Nov 2014 00:00:00 +0530</pubDate><guid>tag:180stocks.github.io,2014-11-06:industry/</guid></item><item><title>Day 35 (Vardhman Acrylics)</title><link>http://180stocks.github.io/day-35/</link><description>&lt;p&gt;One of my friends recently mentioned about
+&lt;li id="fn:icra"&gt;
+&lt;p&gt;Both &lt;a href="http://icra.in/Files/Reports/Rationale/Surya%20Roshni_r_29082014.pdf"&gt;ICRA&lt;/a&gt; and &lt;a href="http://www.careratings.com/upload/CompanyFiles/PR/SURYA%20ROSHINI%20LIMITED-10-30-2014.pdf"&gt;CARE&lt;/a&gt;, have given a positive
+rating to the company's borrowings.&amp;#160;&lt;a class="footnote-backref" href="#fnref:icra" rev="footnote" title="Jump back to footnote 1 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id="fn:net block"&gt;
+&lt;p&gt;Net block includes a revaluation reserve of 185
+Crores. Promoters had bought shares at Rs.111 in 2011
+through open offer (current price is Rs.102).&amp;#160;&lt;a class="footnote-backref" href="#fnref:net block" rev="footnote" title="Jump back to footnote 2 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">180Stocks</dc:creator><pubDate>Wed, 07 Jan 2015 00:00:00 +0530</pubDate><guid>tag:180stocks.github.io,2015-01-07:surya-roshni/</guid></item><item><title>Day 35 (Vardhman Acrylics)</title><link>http://180stocks.github.io/day-35/</link><description>&lt;p&gt;One of my friends recently mentioned about
 &lt;a href="http://www.vardhmanacrylics.com/"&gt;Vardhman Acrylics&lt;/a&gt;. The company
 manufactures Acrylic Fibre (AF) - a sort of
 commodity product, but with &lt;a href="http://www.nseindia.com/content/corporate/eq_VARDHACRLC_base.pdf"&gt;only 5 major
